@@ -1,0 +1,5 @@
+C:/Users/pedro/RV-E1/.utmp/RelWithDebInfo/1m5l4l1s/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/pedro/RV-E1/.utmp/RelWithDebInfo/1m5l4l1s/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/pedro/RV-E1/.utmp/RelWithDebInfo/1m5l4l1s/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/pedro/RV-E1/.utmp/RelWithDebInfo/1m5l4l1s/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/pedro/RV-E1/.utmp/RelWithDebInfo/1m5l4l1s/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
